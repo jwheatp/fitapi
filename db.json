@@ -1,0 +1,24 @@
+{
+  "user_measures": [
+    {
+      "measure": "Pas",
+      "unit": "pas",
+      "value": 3.385
+    },
+    {
+      "measure": "Calories",
+      "unit": "cal",
+      "value": 884
+    },
+    {
+      "measure": "Distance",
+      "unit": "km",
+      "value": 5.9
+    },
+    {
+      "measure": "Durée",
+      "unit": "min",
+      "value": 42
+    },
+  ]
+}
