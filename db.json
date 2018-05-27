@@ -1,5 +1,5 @@
 {
-  "user_measures": [
+  "measures": [
     {
       "measure": "Pas",
       "unit": "pas",
@@ -19,6 +19,6 @@
       "measure": "Durée",
       "unit": "min",
       "value": 42
-    },
+    }
   ]
 }
