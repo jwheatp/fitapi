@@ -1,24 +1,52 @@
 {
-  "measures": [
+  "previous": [
     {
       "measure": "Pas",
-      "unit": "pas",
-      "value": 3.385
-    },
-    {
-      "measure": "Calories",
-      "unit": "cal",
-      "value": 884
+      "date": "10 Mai",
+      "unit": "nombre de pas",
+      "value": 12376
     },
     {
       "measure": "Distance",
-      "unit": "km",
-      "value": 5.9
+      "date": "10 Mai",
+      "unit": "kilomètres",
+      "value": 8.84
     },
     {
-      "measure": "Durée",
-      "unit": "min",
-      "value": 42
+      "measure": "Pas",
+      "date": "11 Mai",
+      "unit": "nombre de pas",
+      "value": 9865
+    },
+    {
+      "measure": "Distance",
+      "date": "11 Mai",
+      "unit": "kilomètres",
+      "value": 7.04
+    },
+    {
+      "measure": "Pas",
+      "date": "8 Mai",
+      "unit": "nombre de pas",
+      "value": 8865
+    },
+    {
+      "measure": "Distance",
+      "date": "8 Mai",
+      "unit": "kilomètres",
+      "value": 6.33
+    },
+    {
+      "measure": "Pas",
+      "date": "9 Mai",
+      "unit": "nombre de pas",
+      "value": 4987
+    },
+    {
+      "measure": "Pas",
+      "date": "9 Mai",
+      "unit": "kilomètres",
+      "value": 3.56
     }
   ]
 }
